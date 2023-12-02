@@ -20,7 +20,7 @@ Your users should be able to:
 
 Your task is to build out the project to the designs inside the `LandingPage.rar`.
 
-Once You extract it you'll find Question inside "Questin Here!" Folder.
+Once You extract it you'll find Question inside "Question Here!" Folder.
 
 The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin` etc. 
 
